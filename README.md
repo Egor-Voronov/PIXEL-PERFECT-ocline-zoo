@@ -1,6 +1,6 @@
 # PIXEL-PERFECT-online-zoo
 ## pixel perfect - верстка выполнялась, согласно макету - под ширину экрана в 1600px
-# ДЕПЛОЙ - https://egor-voronov.github.io/PIXEL-PERFECT-online-zoo/main.html
+# ДЕПЛОЙ - https://egor-voronov.github.io/PIXEL-PERFECT-ocline-zoo/main.html
 ##  стек технологий на этом проекте:
 ### HTML, SCSS, Webpack, Npm
 ### Figma (для работы с макетом)
